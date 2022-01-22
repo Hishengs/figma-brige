@@ -1,0 +1,24 @@
+{
+  "name": "figma-brige",
+  "version": "0.0.1",
+  "description": "A Brige For Designer and Developer, Code to Design and Versa Vice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hishengs/figma-brige.git"
+  },
+  "keywords": [
+    "figma",
+    "design",
+    "code"
+  ],
+  "author": "hishengs@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hishengs/figma-brige/issues"
+  },
+  "homepage": "https://github.com/Hishengs/figma-brige#readme"
+}
